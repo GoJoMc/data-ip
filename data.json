@@ -1,16 +1,4 @@
 {
     "pass": "sukiliar",
-    "number": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-    "words": [
-        "apple",
-        "banana",
-        "cherry",
-        "date",
-        "fig",
-        "grape",
-        "kiwi",
-        "lemon",
-        "mango",
-        "nectarine"
-    ]
+    "ip": ["192.168.0.3"]
 }
